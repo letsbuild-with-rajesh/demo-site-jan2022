@@ -9,5 +9,8 @@ React.js
 `git clone git@github.com:letsbuild-with-rajesh/demo-site-jan2022.git`
 
 ### Demo
+#### Web:
 ![Loading web demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-web.gif?raw=true)
+##
+#### Mob:
 ![Loading moile demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-mob.gif?raw=true)
