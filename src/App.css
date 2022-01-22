@@ -193,6 +193,10 @@ figure {
   padding: 0.5% 0.9%;
 }
 
+#business-journey {
+  margin-top: -2vh;
+}
+
 #business-journey div {
   display: inline-block;
   width: 25%;
@@ -307,6 +311,12 @@ hr {
   color: #C162E5;
   margin: 0;
   padding: 0;
+}
+
+.journey-globe {
+  position: relative;
+  top: 4vh;
+  font-size: 6em;
 }
 
 .journey-demo {
@@ -451,9 +461,13 @@ hr {
 
   #business-journey div {
     box-sizing: border-box;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
     display: inline-block;
     width: 100%;
+  }
+  .journey-globe{
+    position: initial;
+    top: 0;
   }
 
   #intro-container button {
