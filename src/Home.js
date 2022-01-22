@@ -12,11 +12,9 @@ function Home() {
     };
 
     function handleSwipeEnd(evt) {
-
         if (!xStart || !yStart || (Date.now() - lastSwipe) <= MIN_WAIT_TIME) {
             return;
         }
-        console.log(Date.now() - lastSwipe);
 
         var xEnd = evt.touches[0].clientX;
         var yEnd = evt.touches[0].clientY;
@@ -34,7 +32,6 @@ function Home() {
 
         xStart = null;
         yStart = null;
-        console.log("saving last swipe");
         lastSwipe = Date.now();
     }
 
