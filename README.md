@@ -10,7 +10,7 @@ React.js
 
 ### Demo
 
-<details><summary>Web:</summary>
+<details><summary>Web (Click to show/hide)</summary>
 <p>
 
 ![Loading web demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-web.gif?raw=true)
@@ -18,7 +18,7 @@ React.js
 </p>
 </details>
 
-<details><summary>Mobile:</summary>
+<details><summary>Mobile (Click to show/hide)</summary>
 <p>
 
 ![Loading moile demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-mob.gif?raw=true)
