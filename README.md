@@ -12,5 +12,5 @@ React.js
 #### Web:
 ![Loading web demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-web.gif?raw=true)
 ##
-#### Mob:
+#### Mobile:
 ![Loading moile demo gif ...](https://github.com/letsbuild-with-rajesh/demo-site-jan2022/blob/main/public/demo-mob.gif?raw=true)
